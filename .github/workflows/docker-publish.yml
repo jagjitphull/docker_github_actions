@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: jpneo/myapp:latest
+          tags: jpneo/Docker_github_actions:latest
